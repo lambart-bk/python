@@ -1,0 +1,10 @@
+digraph ObjectGraph {
+  node[shape=box, style=filled, fillcolor=white];
+  o139697007771448[fontcolor=red];
+  o139697007771448[label="list\n1 items"];
+  o139697007771448[fillcolor="0,0,1"];
+  o139697007771448 -> o139697007769864;
+  o139697007769864[label="list\n1 items"];
+  o139697007769864[fillcolor="0,0,0.766667"];
+  o139697007769864 -> o139697007771448;
+}
